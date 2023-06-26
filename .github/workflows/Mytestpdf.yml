@@ -17,4 +17,4 @@ jobs:
     steps:
     # Runs a single command using the runners shell
     - name: Send greeting
-      run: python .github/workflows/Mytestpdf
+      run: python .github/workflows/run.py
